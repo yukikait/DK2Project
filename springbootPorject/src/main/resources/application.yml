@@ -2,4 +2,4 @@ logging:
   level: 
     root: info
     youtube.dk2.springboot: debug
-    org.springframework: debug 
+    org.springframework: debug
